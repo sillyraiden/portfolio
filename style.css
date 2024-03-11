@@ -1,0 +1,102 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -50px;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    margin-right: -150px;
+}
+
+h2 {
+    font-family: "Dela Gothic One", sans-serif;
+    text-transform: uppercase;
+    color: #AE6CD4;
+}
+
+
+h4 {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    font-family: "Dela Gothic One", sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: #AE6CD4;
+}
+
+hr {
+    width: 600px;
+    border: 1px solid #D8A6FF96;
+}
+
+.custom-image {
+    margin: 0 10px;
+    height: 250px;
+    width: 250px;
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.text-container{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.text-container p1 {
+    font-family: "Roboto", sans-serif;
+    margin-right: 160px;
+}
+
+.text-container p2 {
+    margin-right: 20px; 
+}
+
+.link-container{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.dino-container {
+    margin-left: 50px;
+    display: flex;
+    align-items: flex-start; /* Align content to the left */
+    justify-content: center; /* Center content horizontally */
+}
+
+.dino-container h4 {
+    margin-left: 20px;
+    text-align: left; 
+    font-size: 17px;
+}
+
+.dinopictures-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dinosn {
+    height: 500px;
+    width: 550px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
